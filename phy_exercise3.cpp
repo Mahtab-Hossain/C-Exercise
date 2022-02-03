@@ -15,6 +15,6 @@ int main()
     var2 = const_r * temp;
     n_moles= var1 / var2 ;
 
-    cout<<"This is the number of moles present: "<<n_moles;
+    cout<<"This is the number of moles present: "<<n_moles<<" mol";
     return 0;
 }
