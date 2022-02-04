@@ -11,7 +11,7 @@ int main()
     for(i=0;i<n1;i++){
         cin>>arr[i];
     };
-    for(i=0;i<n1;i++){
+    for(i=n1-1;i>=0;i--){
         cout<<arr[i]<<" ";
     }
     return 0;
